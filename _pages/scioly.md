@@ -28,13 +28,13 @@ interested in joining the A-team? reach out to <a href="mailto: aqc@mit.edu">me<
     </li>
     <li> 
     <span class="inline-icon">
-        <i class="far fa-folder"></i>
+        <a href="https://drive.google.com/drive/u/1/folders/1e6Tgz4kAYo2iJxS9_ITfVeIO7fEbWqA3" target="_blank"><i class="far fa-folder"></i></a>
     </span> 
     2023 MIT Invitational
     </li>
     <li> 
     <span class="inline-icon">
-        <a href="https://drive.google.com/drive/folders/1tMZP2sCwoGlWtZKpfWh6FzRndwiIpMPK" target="_blank"><i class="far fa-folder"></i></a>
+        <a href="https://drive.google.com/drive/folders/1e6aAXUTVrJe_eyvu8ax_-W3WxibgkulQ?usp=share_link" target="_blank"><i class="far fa-folder"></i></a>
     </span> 
     2022 BIRDSO Satellite Invitational
     </li>
