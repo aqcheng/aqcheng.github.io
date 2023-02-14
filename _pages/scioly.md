@@ -16,15 +16,15 @@ interested in joining the A-team? reach out to <a href="mailto: aqc@mit.edu">me<
 <ul class="noindent">
     <li> 
     <span class="inline-icon">
-        <i class="far fa-folder"></i>
+        <a href="https://drive.google.com/drive/folders/1kAralsJDG0RGKYHlupFPAOvyLx3i3Z3A?usp=share_link" target="_blank"><i class="far fa-folder"></i></a>
     </span> 
-    2023 SHSSO Invitational [tba] 
+    2023 SHSSO Invitational
     </li>
     <li> 
     <span class="inline-icon">
-        <i class="far fa-folder"></i>
+        <a href="https://drive.google.com/drive/folders/1kGSGCJZG5BhbCumiFWBJ4SiGdym2cwz5?usp=share_link" target="_blank"><i class="far fa-folder"></i></a>
     </span> 
-    2023 BIRDSO In-person Invitational [tba] 
+    2023 BIRDSO In-person Invitational
     </li>
     <li> 
     <span class="inline-icon">
