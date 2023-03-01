@@ -10,6 +10,39 @@ nav_order: 4
 <h2>coursework</h2>
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
+        <!-- Spring23 -->
+        <tr>
+          <td></td>
+          <th>6.1220</th>
+          <th>Design and Analysis of Algorithms</th>
+        </tr>
+        <tr>
+          <td><b>Fall 2023</b></td>
+          <th>8.06</th>
+          <th>Quantum Physics III</th>
+        </tr>
+        <tr>
+          <td></td>
+          <th>8.901</th>
+          <th>Astrophysics I (grad)</th>
+        </tr>
+        <tr>
+          <td></td>
+          <th>14.13</th>
+          <th>Psychology and Economics</th>
+          <th class="course-desc">economics is literally a fake discipline lmaoo</th>
+        </tr>
+        <tr>
+          <td></td>
+          <th>18.701</th>
+          <th>Abstract Algebra</th>
+          <th class="course-desc">psets were too long but cohn is a fantastic lecturer and i learned a lot</th>
+        </tr>
+        <tr>
+          <td></td>
+          <th>21G.063</th>
+          <th>Anime: Transnational Media and Culture</th>
+        </tr>
         <!-- Fa22 -->
         <tr>
           <td><b>Fall 2022</b></td>
@@ -148,7 +181,7 @@ nav_order: 4
 </div>
 
 <h2 class="padded">mentorship</h2>
-i am a mentor under mit's physics department. in fall 2022, i mentored for 8.033 (relativity)
+i am a mentor under mit's physics department. i've mentored for 8.033 (relativity) and 8.04 (quantum physics I)
 
 <h2 class="padded">research</h2>
 i've done four different research projects at mit: one on investigating exoplanets around variable stars, one on tracing dark matter particles in the TNG-100 cosmological
@@ -156,14 +189,15 @@ simulation, one on modeling the conversion of axion dark matter into photons in 
 
 i currently work with professor Salvatore Vitale at <a href="https://ligolab.mit.edu/">MIT LIGO</a>. using gravitational wave data from the latest dataset <a href="https://zenodo.org/record/5546665">(GWTC-3)</a>, i use hierarchal bayesian inference to constrain the branching fractions of different binary black hole formation channels and other relevant unconstrained hyperparameters. i'm super excited about this!
 
-i also participate in mit's <a href="https://phys-drp.mit.edu/">physics directed reading program</a>, where each iap (january), undergrads are paired with grad students to read and learn about a topic of their choice. in 2022, i learned about the general relativistic treatment for cosmology and using perturbation theory to understand features of the cosmic microwave background. in 2023, i will learn more about gravitational waves!
+i also participate in mit's <a href="https://phys-drp.mit.edu/">physics directed reading program</a>, where each iap (january), undergrads are paired with grad students to read and learn about a topic of their choice. in 2022, i learned about the general relativistic treatment for cosmology and using perturbation theory to understand features of the cosmic microwave background. in 2023, i learned more in-depth about gravitational waves, binary black-hole inspirals, and the mathematical formalism behind general relativity.
 
 <h2 class="padded">clubs</h2>
 <ul class="hearts">
-    <li>i dance for adt (asian dance team). i joined fall 2022 and very much look forward to future semesters :0</li>
+    <li>i dance for adt (asian dance team) and more recently, lion dance!</li>
     <li>i write for mit's <a href="http://infinitemagazine.mit.edu/">infinite magazine</a></li>
-    <li>i performed <a href="https://www.youtube.com/watch?v=ACon4txJiDA">duet (from omori)</a> at the fall 2022 vgo (video game orchestra)</li>
+    <li>i performed <a href="https://www.youtube.com/watch?v=ACon4txJiDA">duet (from omori)</a> at the fall 2022 vgo (video game orchestra) concert</li>
     <li>i'm on the <a href="http://uwip-r1.mit.edu/">undergraduate womxn in physics</a> exec board</li>
+    <li>i'm a physics common room steward, which means i help buy snacks for it and maintain it as a nice space for students</li>
     <li>i teach for <a href="https://esp.mit.edu/learn/Splash/index.html">splash</a>, a student-run teaching program for high school students! i taught an astronomy class last year and a relativity class this year.</li>
-    <li>i'm the VALORANT coordinator for mit's riot games club</li>
+    <li>i'm the Valorant coordinator and team manager for mit's riot games club! i organize customs and watch parties and things like that</li>
 </ul>
