@@ -8,7 +8,7 @@ categories: poems
 ---
 &emsp; &emsp; two long chains, two bars, silver, black. a V on my breast to dress a pretty man
 
-a gift from my mother for my 18th birthday
+a gift from my mother for my 18th birthday\
 my adolescent love, burned into collarbone
 
 pins &emsp; with\
