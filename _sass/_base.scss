@@ -10,8 +10,12 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   font-family: 'Chivo', sans-serif;
 }
 
-span.emph {
+em, bold, span.emph {
   color: var(--global-emph-color);
+}
+
+bold {
+  font-weight: bold;
 }
 
 hr {
@@ -207,7 +211,7 @@ blockquote {
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
-      font-weight: bolder;
+      font-weight: bold;
       color: var(--global-theme-color);
       &:hover {
         color: var(--global-hover-color);
