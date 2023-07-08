@@ -2,7 +2,7 @@
 layout: post
 title: eight-count
 date: 2022-11-21
-description: a poem about my body and staring at the ceiling
+description: staring at the ceiling
 tags: feelings
 categories: poems
 ---

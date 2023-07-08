@@ -27,6 +27,6 @@ a ring on a string from a city in the flavor of summer:\
 
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; a polaroid of a familiar face
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em>a polaroid of a familiar face</em>
 
 
