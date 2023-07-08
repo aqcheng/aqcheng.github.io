@@ -120,7 +120,7 @@ cv_path: /assets/pdf/April_Qiu_Cheng_CV.pdf
 blog_name: welcome to <b>HEADSPACE</b> # blog_name will be displayed in your blog page
 blog_nav_title: unravel # your blog must have a title for it to be displayed in the nav bar
 blog_description: >
- <b>this is not really a blog</b>. from how i see it, blogs are nice, coherent medium-length entries. 
+ <b>this is not really a blog</b>. from how i see it, blogs are nice, coherent long-length entries. 
  i don't really like writing those. instead, i have a lot of short thoughts that i'll scribble down. 
  sometimes, they become poetry. most of the time, they don't make any sense. and once in a while, i'll feel like putting them out 
  to the world. <br><br>
@@ -260,10 +260,10 @@ display_tags: # this tags will be dispalyed on the front page of your blog
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Cheng]
+  first_name: [April, A.]
 
-  style: apa
+  style: aps
   locale: en
 
   source: /_bibliography/
