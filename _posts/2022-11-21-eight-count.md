@@ -4,7 +4,7 @@ title: eight-count
 date: 2022-11-21
 description: a poem about my body and staring at the ceiling
 tags: feelings
-categories: poem
+categories: poems
 ---
 one. <br>
 above me, the blank canvas is a distant heaven; <br>
