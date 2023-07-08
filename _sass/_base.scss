@@ -3,10 +3,11 @@
  ******************************************************************************/
 
 // Typography
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@100&family=Lato:wght@300;400&display=swap');
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
-  // font-family: 'Roboto';
+  font-family: 'Chivo', sans-serif;
 }
 
 span.emph {
