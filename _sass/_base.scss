@@ -25,12 +25,14 @@ h2.padded{
 
 .hearts, .noindent {
   list-style: none;
-  margin-left: -30px;
+  position: relative;
+  padding-left: 25px;
 }
-.hearts li::before {
+.hearts li:before {
   color: var(--global-theme-color);
-  padding-right: 10px;
-  content: "♡ ";
+  left: 0px;
+  content: "♡";
+  position: absolute;
 }
 
 table {
