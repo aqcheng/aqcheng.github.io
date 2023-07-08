@@ -2,7 +2,7 @@
 layout: post
 title: hexagon corkboard
 date: 2023-02-13
-description: a piece i'm writing for mit's infinite magazine. there's a hexagon corkboard on which i hang my favorite accessories
+description: there's a hexagon corkboard on which i hang my favorite accessories
 tags: feelings
 categories: poems
 ---
