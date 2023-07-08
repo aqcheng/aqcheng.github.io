@@ -164,20 +164,20 @@ nav_order: 4
 </div>
 
 <h2 class="padded">mentorship</h2>
-i am a mentor under mit's physics department. i've mentored for 8.033 (relativity) and 8.04 (quantum physics I)
+i'vev been mentoring for mit's physics department since fall 2022; i've mentored for 8.033 (relativity) and 8.04 (quantum physics I)
 
 <h2 class="padded">research</h2>
 i've done four different research projects at mit: one on investigating exoplanets around variable stars, one on tracing dark matter particles in the TNG-100 cosmological
 simulation, one on modeling the conversion of axion dark matter into photons in neutron star magnetospheres, and my currrent project!
 
-at mit, i currently work with professor Salvatore Vitale at <a href="https://ligolab.mit.edu/">MIT LIGO</a>. using gravitational wave data from the latest dataset <a href="https://zenodo.org/record/5546665">(GWTC-3)</a>, i use hierarchical bayesian inference to constrain the branching fractions of different binary black hole formation channels, make some projections for what our results will look like with a few years' more of data, and also look at the potential pitfalls of this method. i'm super excited about this (paper coming soon)!! (while technically not mit, i am currently participating in caltech's ligo surf, where i'm doing similarly exciting gravitational-wave astrophysics research on binary black hole populations.)
+at mit, i currently work with professor Salvatore Vitale at <a href="https://ligolab.mit.edu/">MIT LIGO</a>. using gravitational wave data from the latest dataset <a href="https://zenodo.org/record/5546665">(GWTC-3)</a>, i use hierarchical bayesian inference to constrain the branching fractions of different binary black hole formation channels, make some projections for what our results will look like with a few years' more of data, and also look at the potential pitfalls of this method. i'm super excited about this!! (while technically not mit, i am currently participating in caltech's ligo surf, where i'm doing similarly exciting gravitational-wave astrophysics research on binary black hole populations.)
 
 i also participate in mit's <a href="https://phys-drp.mit.edu/">physics directed reading program</a>, where each iap (january), undergrads are paired with grad students to read and learn about a topic of their choice. in 2022, i learned about the general relativistic treatment for cosmology and using perturbation theory to understand features of the cosmic microwave background. in 2023, i learned more in-depth about gravitational waves, binary black-hole inspirals, and the mathematical formalism behind general relativity.
 
 <h2 class="padded">clubs</h2>
 <ul class="hearts">
     <li>i dance for adt (asian dance team) and more recently, lion dance!</li>
-    <li>i write for mit's <a href="http://infinitemagazine.mit.edu/">infinite magazine, and i modelled for them at the first ever mit gala</a></li>
+    <li>i write for mit's <a href="http://infinitemagazine.mit.edu/">infinite magazine</a>, and i modelled for them at the first ever mit gala! (that was super fun)</li>
     <li>i performed <a href="https://www.youtube.com/watch?v=ACon4txJiDA">duet (from omori)</a> at the fall 2022 vgo (video game orchestra) concert</li>
     <li>i'm the former  webmaster and VP of advocacy for <a href="http://uwip-r1.mit.edu/">undergraduate women in physics</a> (UWiP)</li>
     <li>i'm the physics common room steward, which means i buy snacks for it and maintain it as a nice space for students</li>
