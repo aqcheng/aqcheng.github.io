@@ -297,11 +297,13 @@ blockquote {
   }
 }
 
-.social {
+.social { 
+  margin-top: 1.4cm;
   text-align: center;
   .contact-icons {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     a {
+      margin: 9px;
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
