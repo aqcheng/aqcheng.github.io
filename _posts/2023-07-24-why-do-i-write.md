@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (mit blogger application) why do i write?
-date: 2023-07-23
+date: 2023-07-24
 description: what happens when i attempt to answer prompts
 tags: me-things feelings reflections
 categories: long
