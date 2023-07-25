@@ -10,12 +10,16 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   font-family: 'Chivo', sans-serif;
 }
 
-em, bold, span.emph {
+em, b, bold, big, span.emph {
   color: var(--global-emph-color);
 }
 
-bold {
+b, bold, big {
   font-weight: bold;
+}
+
+big {
+  font-size: 1.5rem;
 }
 
 hr {
@@ -69,10 +73,13 @@ figure, img {
 
 blockquote {
   background: var(--global-bg-color);
-  border-left: 2px solid var(--global-theme-color);
   margin: 1.5em 10px;
+  margin-left: 20px;
+  padding-left: 20px;
   padding: 0.5em 10px;
+  border-left: 1px solid var(--global-theme-color);
   font-size: 1.2rem;
+  font-style: italic;
 }
 
 // Math
