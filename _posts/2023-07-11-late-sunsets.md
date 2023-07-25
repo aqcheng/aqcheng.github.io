@@ -8,11 +8,19 @@ categories: poems
 ---
 
 late sunsets—9 pm sorbet skies
+
 &nbsp; strawberry clouds and blueberry eyes
+
 gold-dappled river fabric criss-
+
 &nbsp; crossing the back of her dress—
 
+<br>
+
 are her favorite time of day.
+
 she laughed as she threw ice into the water.
+
 ice! as if the sun—just boiling—wasn’t holding his breath
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;just for her.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;just for her.
