@@ -13,7 +13,7 @@ categories: long
 
 <br>
 
-> I leave Sisyphus at the foot of the mountain. One always finds one's burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy. <br> <br> <reg>(<it>The Myth of Sisyphus</it>, Albert Camus)</reg>
+> I leave Sisyphus at the foot of the mountain. One always finds one's burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man's heart. <b>One must imagine Sisyphus happy.</b> <br> <br> <reg>(<it>The Myth of Sisyphus</it>, Albert Camus)</reg>
 
 on some days, like yesterday, i’ll wake up in the morning and feel hollow, like someone had shoveled me from the inside out. like someone had scratched off all the labels. what’s important, what’s not. i study the ceiling, blank chalk, not knowing what i care about, why i should get up, why i loved anything, or anyone. not knowing if i was tired or shattered.
 
