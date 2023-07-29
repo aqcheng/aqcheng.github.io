@@ -19,9 +19,13 @@ there's certainly a positive phrasing of this: i'm ambitious, and i'd like to be
 
 in reality, however, self perceptions are not blanket truths. i know that. i know i can’t keep this up forever. i know there are some things i can’t fix, and i know that there are some things that i shouldn't fix. i know one day i will hit a wall and i won't know how to deal with it. i know because i'm hitting one of those walls right now. because
 
-___
+<br>
 
-### *i'm \*\*\*\*\*\*\**
+---
+
+<br>
+
+### *i'm \*\*\*\*\*\*\*.*
 <br>
 
 (oops, that was random. nothing like coming out by nervously blurting it out of nowhere!)

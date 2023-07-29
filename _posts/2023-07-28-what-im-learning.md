@@ -7,14 +7,13 @@ tags: feelings me-things reflections
 categories: long
 ---
 
-##### (Prompt) What is something you learned recently that you are very excited about?
+(Prompt) <it> What is something you learned recently that you are very excited about? </it>
+
+---
 
 <br>
 
-> I leave Sisyphus at the foot of the mountain. One always finds one's burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy. <br> <br>
-<reg>(*The Myth of Sisyphus*, Albert Camus)</reg>
-
-<br>
+> I leave Sisyphus at the foot of the mountain. One always finds one's burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy. <br> <br> <reg>(<it>The Myth of Sisyphus</it>, Albert Camus)</reg>
 
 on some days, like yesterday, i’ll wake up in the morning and feel hollow, like someone had shoveled me from the inside out. like someone had scratched off all the labels. what’s important, what’s not. i study the ceiling, blank chalk, not knowing what i care about, why i should get up, why i loved anything, or anyone. not knowing if i was tired or shattered.
 
@@ -32,8 +31,7 @@ watching my citadel crumble, because it wasn’t the first time.
 
 the first time i fell in love, i was 4. i was at the library. kids’ astronomy books, legs criss-cross on the ground. head above the clouds, on planets, stars, galaxies. eyes, hungry, looking through the eyes of satellites. satellites which embarked decades ago, leaving the solar system; i, wanting to chase after it.
 
-> you once told me that the human eye is god’s loneliest creation. how so much of the world passes through the pupil and still it holds nothing. the eye, alone in its socket, doesn’t even know there’s another one, just like it, an inch away, just as hungry, as empty. <br>
-(<reg>on earth we’re briefly gorgeous</reg>, ocean vuong)
+> You once told me that the human eye is god’s loneliest creation. How so much of the world passes through the pupil and still it holds nothing. The eye, alone in its socket, doesn’t even know there’s another one, just like it, an inch away, just as hungry, as empty. <br> <br> <reg>(<it>On Earth We're Briefly Gorgeous</it>, Ocean Vuong)</reg>
 
 falling in love again under the stars. and again, and again. the people i’m with change but i never do. red light for dark adaptation, lighting up my face and a star map. my face, not looking down.
 
@@ -105,13 +103,13 @@ if home is a person, then i think i was leaving.
 
 everything crumbling until there’s nothing left.
 
-for a while, there was nothing left. you were hollow, at 16. how many times did you open *university physics* and snap? because you would never be as good as S, good enough for S, the boy you loved at 14. or any of them. maybe you didn’t want to be tokenized. you didn’t want to speak for an entire gender when you failed. but that was inside you too. your misogyny. your doubt, like termites.
+for a while, there was nothing left. you were hollow, at 16. how many times did you open <it>university physics</it> and snap? because you would never be as good as S, good enough for S, the boy you loved at 14. or any of them. maybe you didn’t want to be tokenized. you didn’t want to speak for an entire gender when you failed. but that was inside you too. your misogyny. your doubt, like termites.
 
 you, crushed by the weight of not having the strength to love what you loved at 4. you, filling yourself with fiction and watered love. you, drowning, still hollow.
 
 when did you stop? maybe it was around when you met A; she was just like you, when you were 17. and you started rebuilding, one brick at a time. then COVID happened. you turned 18. you started over. you took a gap year and you spent it thinking. stronger foundations, confidence. 19. your freshman year at mit happens. it’s not S, it’s someone else–but really, it’s just you, still you, again. you’re hollow again. you start over again. 20. you declare course 8. you find a UROP that you like. you rebuild, again and again.
 
-i turn 21. i publish my first paper in The Astrophysical Journal. i study the ceiling, blank chalk, looking for termites.
+i turn 21. i publish [my first paper](https://arxiv.org/abs/2307.03129) in The Astrophysical Journal. i study the ceiling, blank chalk, looking for termites.
 
 <br>
 
@@ -123,7 +121,7 @@ watching my citadel crumble, because it wasn’t the first time. the bigger they
 
 learning that it’s never easy, to see everything i’ve built up disappear. to drift blankly, becalmed, knowing nothing. then, pulling my shit together. learning what i need to fix. fixing the external problems. fixing me. 
 
-learning that it’s never one thing. that it’ll never be one thing. because i’ve chosen a life for myself–my self which is never static, at best quietly tense, always on the verge. surges of anxiety. waves of panic telling me to *run run run* towards the future. reminders that i don’t want to stay stagnant. evidence that i’m still alive, still hungry. still real. 
+learning that it’s never one thing. that it’ll never be one thing. because i’ve chosen a life for myself–my self which is never static, at best quietly tense, always on the verge. surges of anxiety. waves of panic telling me to <it>run run run</it> towards the future. reminders that i don’t want to stay stagnant. evidence that i’m still alive, still hungry. still real. 
 
 learning that it’ll never be easy. but also, learning that it gets easier. learning that there is joy in change, in putting myself back together again, piece by piece. in knowing myself, piece by piece, from the inside out.
 
@@ -131,4 +129,4 @@ learning those lessons, again and again, on days like yesterday.
 
 <br>
 
-{% include figure.html path="assets/img/it_will_be_okay.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/it_will_be_okay.png" class="img-fluid rounded" %}

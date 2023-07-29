@@ -404,6 +404,7 @@ footer.sticky-bottom {
   text-align: center;
   padding-top: 2rem;
   padding-bottom: 3rem;
+  margin-bottom: 3rem;
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
@@ -411,7 +412,7 @@ footer.sticky-bottom {
 }
 
 .tag-list {
-  border-bottom: 1px solid var(--global-divider-color);
+  border-bottom: none;
   text-align: center;
   padding-top: 1rem;
 
@@ -433,7 +434,7 @@ footer.sticky-bottom {
   margin-bottom: 40px;
   padding: 0;
   li {
-    border-bottom: 1px solid var(--global-divider-color);
+    border-bottom: none;
     list-style: none;
     padding-top: 2rem;
     padding-bottom: 2rem;
