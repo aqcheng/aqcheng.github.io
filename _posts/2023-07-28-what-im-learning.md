@@ -29,7 +29,7 @@ watching my citadel crumble, because it wasn’t the first time.
 
 <br>
 
-the first time i fell in love, i was 4. i was at the library. kids’ astronomy books, legs criss-cross on the ground. head above the clouds, on planets, stars, galaxies. eyes, hungry, looking through the eyes of satellites. satellites which embarked decades ago, leaving the solar system; i, wanting to chase after it.
+the first time i fell in love, i was 4. i was at the library. kids’ astronomy books, legs criss-cross on the ground. head above the clouds, on planets, stars, galaxies. eyes, hungry, looking through the eyes of satellites. satellites which embarked decades ago, leaving the solar system; i, wanting to chase after them.
 
 > You once told me that the human eye is god’s loneliest creation. How so much of the world passes through the pupil and still it holds nothing. The eye, alone in its socket, doesn’t even know there’s another one, just like it, an inch away, just as hungry, as empty. <br> <br> <reg>(<it>On Earth We're Briefly Gorgeous</it>, Ocean Vuong)</reg>
 
