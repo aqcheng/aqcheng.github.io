@@ -83,7 +83,7 @@ and yet they were human, all too human. oppenheimer, the father of the atomic bo
 
 from [wikipedia](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer) (although this scene is reproduced in the movie, so…spoilers?)
 
-> At an assembly at Los Alamos on August 6 (the evening of the atomic bombing of Hiroshima), Oppenheimer took to the stage and clasped his hands together "like a prize-winning boxer" while the crowd cheered. He expressed regret that the weapon was ready too late for use against Nazi Germany. <br> But on August 17 Oppenheimer traveled to Washington to hand-deliver a letter to Secretary of War Henry L. Stimson expressing his revulsion and his wish to see nuclear weapons banned. In October he met with President Harry S. Truman. The meeting went badly after Oppenheimer said he felt he had "blood on my hands"; this remark infuriated Truman, who later told his Undersecretary of State Dean Acheson, "I don't want to see that son-of-a-bitch in this office ever again".
+> At an assembly at Los Alamos on August 6 (the evening of the atomic bombing of Hiroshima), Oppenheimer took to the stage and clasped his hands together "like a prize-winning boxer" while the crowd cheered. He expressed regret that the weapon was ready too late for use against Nazi Germany. <br><br> But on August 17 Oppenheimer traveled to Washington to hand-deliver a letter to Secretary of War Henry L. Stimson expressing his revulsion and his wish to see nuclear weapons banned. In October he met with President Harry S. Truman. The meeting went badly after Oppenheimer said he felt he had "blood on my hands"; this remark infuriated Truman, who later told his Undersecretary of State Dean Acheson, "I don't want to see that son-of-a-bitch in this office ever again".
 
 ### 4.
 
