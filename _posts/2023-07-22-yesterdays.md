@@ -17,9 +17,10 @@ this summer, i’ve been trying to get into the habit of reading a book in the m
 
 these past few weeks, i’ve been bouncing between a few books, one of which is *gravitation and cosmology* by steven weinberg, a textbook on, well, gravitation and cosmology. it seems like the deeper you get into physics, the more faceless the texts become. or maybe they just get older
 
-{% include figure.html path="assets/img/07-22-23_blog/grav_and_cosmo.jpeg" class="img-fluid rounded" %}
+{% include figure.html path="assets/img/07-22-23_blog/grav_and_cosmo.jpeg" class="img-fluid rounded" width=60% zoomable=true %}
 
 since this is not my first time learning general relativity, i can now read textbooks that approach the subject more in line with its inner logic, at the cost of pedagogical accessibility. there’s something so magical about it–about scrawling along with the tensor algebra, trying to understand that the arcane symbols forming in the tip of my pen govern, simultaneously, how the earth goes around the sun, how black holes can exist as a mathematical construct, how we can hear two of them crashing into each other billions of light years away[^1]. i mean, i’m literally peering into the source code documentation for the universe in a musty old blue textbook, sitting on a big bean bag in the library basement stacks
+
 [^1]: this is the subject of my research–[gravitational waves](https://www.ligo.caltech.edu/page/what-are-gw)!
 
 (yes, this is the point where you can point and laugh and call me a nerd)
@@ -35,9 +36,11 @@ for me personally, the framework of *completeness* makes sense for two reasons. 
 but it’s not that simple, of course–if it was that easy no one would be stressing over what they want to do with their lives. because i don’t always know what makes me happy. because some days i’ll open gravitation and cosmology and i won’t see the magic. and some days, the prospect of even thinking about physics will fill me with dread, and i’ll stare at the ceiling and start rethinking what i want to do with my life
 
 because all this only begs the question of *why does physics make me happy?* i think many course 8s[^2] (in physicist fashion), myself included, will go through all sorts of ends to figure this out. and while i can now come up with a few rational explanations, i think the true explanation for me is that <b>there isn’t one</b>. and there doesn’t have to be–because to whom do i owe this justification? ultimately, my reason for doing physics is *even more complete* than “it makes me happy”; <b>i want to do physics because i do</b>. it’s an attribute as fundamental as the fact that i have brown eyes or that i’m 5’10 or that i like ice cream, just a bit less tangible. all it requires is a bit of blind faith in its existence. in a way it is self-fulling, too–perhaps it is this blind faith that compels me to read a textbook in a basement first thing in the morning. how very idealistic, don’t you think?
+
 [^2]: what mit calls a physics major
 
 so tl;dr–i want to be a physicist, and that statement <b>exists in a vacuum</b>. there are no motivations, no chains of logic, causal or effectual. as an academic, without any justification or regard to the small *real* world in which i am embedded[^3], <b>i will do physics *for its own sake*</b>
+
 [^3]: sometimes i like to pat myself on the back and tell myself that i’m researching for some grand reason, like the furthering of human knowledge–but that sounds just about as abstract as quant traders telling themselves they’re adding liquidity to the market, or whatever. so i’m not saying i have a moral high ground over anyone in choosing the path that i’ve chosen; in fact, it’s quite the opposite. i have a lot of respect for those who dedicate themselves to a purpose greater than self-fulfillment
 
 ### 2.
@@ -45,19 +48,20 @@ so tl;dr–i want to be a physicist, and that statement <b>exists in a vacuum</b
 about a week and a half ago, i got on a plane and went on a field trip
 
 this summer, i’m doing research at caltech as part of the LIGO[^4] SURF[^5] [program](https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/). included in the program is a field trip to the LIGO detector in hanford, washington; that was pretty cool. included in that field trip, though, was also a trip to the hanford B reactor
+
 [^4]: laser interferometer gravitational-wave observatory
 [^5]: summer undergraduate research fellow
 
 the B reactor is the first-ever large scale nuclear reactor, used to produce the plutonium for the trinity test and the fat man bomb in world war ii. i’m ashamed to admit that i never really bothered to learn the details of the manhattan project–i don’t think i ever really grasped just how big the scale of the project was until i was standing before a wall, a cross-section of 2000 aluminum tubes that was once filled with water to cool the reactor
 
-{% include figure.html path="assets/img/07-22-23_blog/b_reactor_1.jpg" class="img-fluid rounded" %}
-{% include figure.html path="assets/img/07-22-23_blog/b_reactor_2.jpg" class="img-fluid rounded" %}
+{% include figure.html path="assets/img/07-22-23_blog/b_reactor_1.jpg" class="img-fluid rounded" width=30% zoomable=true %}
+{% include figure.html path="assets/img/07-22-23_blog/b_reactor_2.jpg" class="img-fluid rounded" width=30% zoomable=true %}
 
 and even that didn’t make it really sink in. it was all so… touristy. we were sat down in a big room, facing these 2000 aluminum tubes, as the guide happily explained how the reactor worked, how enrico fermi, whom we all knew from our physics classes, pioneered the chain reaction mechanism, and how water used to come through all those tubes from the pump, pushing little buttons to light up a toy model of the site–this is where the water was pumped, this is where people ate, this is where the waste was kept before they realized it was hazardous to just dump it right away in the river, and so on
 
 after a while we got up and walked through the different rooms. they did look pretty cool, even though most of them were just filled with water pipes and pumps. but what was most unsettling to me were the signs
 
-{% include figure.html path="assets/img/07-22-23_blog/b_reactor_signs.jpeg" class="img-fluid rounded" %}
+{% include figure.html path="assets/img/07-22-23_blog/b_reactor_signs.jpeg" class="img-fluid rounded" width=60% zoomable=true %}
 
 the signs were in every room. dozens upon dozens of signs in a style that today only remains as an aesthetic. radioactive, keep out, keep your gear on, do not enter, and most importantly, *do not tell*. as touristy as the tour was, there was no glossing over the fact that this was the heart of a top secret military operation, one of unprecedented scale, in both science and horror, one that precisely engineered the instanteous deaths of hundreds of thousands of people, and one that would change the very perception of war itself, as it launched the world–irreversibly–into an age of looming self-annihilation
 
@@ -97,5 +101,6 @@ and of course that sounds great and all, humanity’s great conquest of truth in
 
 are any of my worries or interests even significant? is the act of self-fulfillment self-serving? how many people died to pave the path i intend to walk? should i grieve–how should i grieve? i feel that i should be grateful, but whom do i thank? do i carry a burden, some kind of obligation to make the world a better place? or can i keep pursuing life in abstraction? is that even possible? and what does that even mean, anymore? does history have to be ugly, or is there something beautiful in there, too? is it dismissive to lump together the horrors and triumphs of the past as abstract features of human nature? but then, when does abstraction cross the line into crude romanticization? what is the right way to look towards both tomorrow and yesterday?
 
-i don’t know[7]. i don’t know what you or i should take away from all this. but i think it’s certainly something worth thinking about
+i don’t know[^7]. i don’t know what you or i should take away from all this. but i think it’s certainly something worth thinking about
+
 [^7]: the easy answer, of course, is that none of this even matters–undoing my abstractions doesn’t make me any less ignorant than i was yesterday, and feeling morally conflicted won’t undo the suffering of the past. but that is the pragmatist’s answer, and i have decided <it>a priori</it> to reject that kind of logic
