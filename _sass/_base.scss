@@ -78,8 +78,14 @@ a, table.table a {
   }
 }
 
+img {
+  margin: auto;
+  padding: 20px;
+}
+
 figure, img {
   max-width: 90vw;
+  text-align: center;
 }
 
 blockquote {

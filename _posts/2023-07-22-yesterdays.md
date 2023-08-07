@@ -11,13 +11,15 @@ categories: long
 
 ---
 
+<br>
+
 ### 1.
 
 this summer, i’ve been trying to get into the habit of reading a book in the morning, which is something i usually find myself too busy or stressed to do during the school year. i overthink a lot about what to do with my mornings because i think they kind of set the framing for how i go about the rest of my day
 
 these past few weeks, i’ve been bouncing between a few books, one of which is *gravitation and cosmology* by steven weinberg, a textbook on, well, gravitation and cosmology. it seems like the deeper you get into physics, the more faceless the texts become. or maybe they just get older
 
-{% include figure.html path="assets/img/07-22-23_blog/grav_and_cosmo.jpeg" class="img-fluid rounded" width=60% zoomable=true %}
+{% include figure.html path="assets/img/07-22-23_blog/grav_and_cosmo.jpeg" class="img-fluid rounded center" width="60%" zoomable=true %}
 
 since this is not my first time learning general relativity, i can now read textbooks that approach the subject more in line with its inner logic, at the cost of pedagogical accessibility. there’s something so magical about it–about scrawling along with the tensor algebra, trying to understand that the arcane symbols forming in the tip of my pen govern, simultaneously, how the earth goes around the sun, how black holes can exist as a mathematical construct, how we can hear two of them crashing into each other billions of light years away[^1]. i mean, i’m literally peering into the source code documentation for the universe in a musty old blue textbook, sitting on a big bean bag in the library basement stacks
 
@@ -43,6 +45,8 @@ so tl;dr–i want to be a physicist, and that statement <b>exists in a vacuum</b
 
 [^3]: sometimes i like to pat myself on the back and tell myself that i’m researching for some grand reason, like the furthering of human knowledge–but that sounds just about as abstract as quant traders telling themselves they’re adding liquidity to the market, or whatever. so i’m not saying i have a moral high ground over anyone in choosing the path that i’ve chosen; in fact, it’s quite the opposite. i have a lot of respect for those who dedicate themselves to a purpose greater than self-fulfillment
 
+<br>
+
 ### 2.
 
 about a week and a half ago, i got on a plane and went on a field trip
@@ -54,20 +58,21 @@ this summer, i’m doing research at caltech as part of the LIGO[^4] SURF[^5] [p
 
 the B reactor is the first-ever large scale nuclear reactor, used to produce the plutonium for the trinity test and the fat man bomb in world war ii. i’m ashamed to admit that i never really bothered to learn the details of the manhattan project–i don’t think i ever really grasped just how big the scale of the project was until i was standing before a wall, a cross-section of 2000 aluminum tubes that was once filled with water to cool the reactor
 
-{% include figure.html path="assets/img/07-22-23_blog/b_reactor_1.jpg" class="img-fluid rounded" width=30% zoomable=true %}
-{% include figure.html path="assets/img/07-22-23_blog/b_reactor_2.jpg" class="img-fluid rounded" width=30% zoomable=true %}
+{% include figure.html path="assets/img/07-22-23_blog/b_reactor.jpg" class="img-fluid rounded" width="60%" zoomable=true %}
 
 and even that didn’t make it really sink in. it was all so… touristy. we were sat down in a big room, facing these 2000 aluminum tubes, as the guide happily explained how the reactor worked, how enrico fermi, whom we all knew from our physics classes, pioneered the chain reaction mechanism, and how water used to come through all those tubes from the pump, pushing little buttons to light up a toy model of the site–this is where the water was pumped, this is where people ate, this is where the waste was kept before they realized it was hazardous to just dump it right away in the river, and so on
 
 after a while we got up and walked through the different rooms. they did look pretty cool, even though most of them were just filled with water pipes and pumps. but what was most unsettling to me were the signs
 
-{% include figure.html path="assets/img/07-22-23_blog/b_reactor_signs.jpeg" class="img-fluid rounded" width=60% zoomable=true %}
+{% include figure.html path="assets/img/07-22-23_blog/b_reactor_signs.jpeg" class="img-fluid rounded" width="70%" zoomable=true %}
 
 the signs were in every room. dozens upon dozens of signs in a style that today only remains as an aesthetic. radioactive, keep out, keep your gear on, do not enter, and most importantly, *do not tell*. as touristy as the tour was, there was no glossing over the fact that this was the heart of a top secret military operation, one of unprecedented scale, in both science and horror, one that precisely engineered the instanteous deaths of hundreds of thousands of people, and one that would change the very perception of war itself, as it launched the world–irreversibly–into an age of looming self-annihilation
 
 on the bus ride back from the reactor site, an old man asked the tour guide to announce to the entire bus that he had visited all 423 national parks in the united states, this being his last one. then we all clapped. i was just staring out the window, not really knowing how to feel, or what i was feeling, besides something like *ah yes, man made horrors beyond my comprehension*
 
 except, having learned the physics, it’s not really that far beyond my comprehension anymore
+
+<br>
 
 ### 3.
 
@@ -84,6 +89,8 @@ and yet they were human, all too human. oppenheimer, the father of the atomic bo
 from [wikipedia](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer) (although this scene is reproduced in the movie, so…spoilers?)
 
 > At an assembly at Los Alamos on August 6 (the evening of the atomic bombing of Hiroshima), Oppenheimer took to the stage and clasped his hands together "like a prize-winning boxer" while the crowd cheered. He expressed regret that the weapon was ready too late for use against Nazi Germany. <br><br> But on August 17 Oppenheimer traveled to Washington to hand-deliver a letter to Secretary of War Henry L. Stimson expressing his revulsion and his wish to see nuclear weapons banned. In October he met with President Harry S. Truman. The meeting went badly after Oppenheimer said he felt he had "blood on my hands"; this remark infuriated Truman, who later told his Undersecretary of State Dean Acheson, "I don't want to see that son-of-a-bitch in this office ever again".
+
+<br>
 
 ### 4.
 
@@ -102,5 +109,11 @@ and of course that sounds great and all, humanity’s great conquest of truth in
 are any of my worries or interests even significant? is the act of self-fulfillment self-serving? how many people died to pave the path i intend to walk? should i grieve–how should i grieve? i feel that i should be grateful, but whom do i thank? do i carry a burden, some kind of obligation to make the world a better place? or can i keep pursuing life in abstraction? is that even possible? and what does that even mean, anymore? does history have to be ugly, or is there something beautiful in there, too? is it dismissive to lump together the horrors and triumphs of the past as abstract features of human nature? but then, when does abstraction cross the line into crude romanticization? what is the right way to look towards both tomorrow and yesterday?
 
 i don’t know[^7]. i don’t know what you or i should take away from all this. but i think it’s certainly something worth thinking about
+
+<br>
+
+---
+
+<br>
 
 [^7]: the easy answer, of course, is that none of this even matters–undoing my abstractions doesn’t make me any less ignorant than i was yesterday, and feeling morally conflicted won’t undo the suffering of the past. but that is the pragmatist’s answer, and i have decided <it>a priori</it> to reject that kind of logic
