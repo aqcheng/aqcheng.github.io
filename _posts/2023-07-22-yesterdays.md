@@ -14,7 +14,7 @@ this summer, i’ve been trying to get into the habit of reading a book in the m
 
 these past few weeks, i’ve been bouncing between a few books, one of which is *gravitation and cosmology* by steven weinberg, a textbook on, well, gravitation and cosmology. it seems like the deeper you get into physics, the more faceless the texts become. or maybe they just get older
 
-{% include figure.html path="assets/img/07-22-23_blog/grav_and_cosmo.jpeg" class="img-fluid rounded center" width="60%" zoomable=true %}
+{% include figure.html path="assets/img/07-22-23_blog/grav_and_cosmo.jpeg" class="img-fluid rounded center" width="60%" padding="20px" zoomable=true %}
 
 since this is not my first time learning general relativity, i can now read textbooks that approach the subject more in line with its inner logic, at the cost of pedagogical accessibility. there’s something so magical about it–about scrawling along with the tensor algebra, trying to understand that the arcane symbols forming in the tip of my pen govern, simultaneously, how the earth goes around the sun, how black holes can exist as a mathematical construct, how we can hear two of them crashing into each other billions of light years away[^1]. i mean, i’m literally peering into the source code documentation for the universe in a musty old blue textbook, sitting on a big bean bag in the library basement stacks
 
@@ -53,13 +53,13 @@ this summer, i’m doing research at caltech as part of the LIGO[^4] SURF[^5] [p
 
 the B reactor is the first-ever large scale nuclear reactor, used to produce the plutonium for the trinity test and the fat man bomb in world war ii. i’m ashamed to admit that i never really bothered to learn the details of the manhattan project–i don’t think i ever really grasped just how big the scale of the project was until i was standing before a wall, a cross-section of 2000 aluminum tubes that was once filled with water to cool the reactor
 
-{% include figure.html path="assets/img/07-22-23_blog/b_reactor.jpg" class="img-fluid rounded" width="60%" zoomable=true %}
+{% include figure.html path="assets/img/07-22-23_blog/b_reactor.jpg" class="img-fluid rounded" width="60%" padding="20px" zoomable=true %}
 
 and even that didn’t make it really sink in. it was all so… touristy. we were sat down in a big room, facing these 2000 aluminum tubes, as the guide happily explained how the reactor worked, how enrico fermi, whom we all knew from our physics classes, pioneered the chain reaction mechanism, and how water used to come through all those tubes from the pump, pushing little buttons to light up a toy model of the site–this is where the water was pumped, this is where people ate, this is where the waste was kept before they realized it was hazardous to just dump it right away in the river, and so on
 
 after a while we got up and walked through the different rooms. they did look pretty cool, even though most of them were just filled with water pipes and pumps. but what was most unsettling to me were the signs
 
-{% include figure.html path="assets/img/07-22-23_blog/b_reactor_signs.jpeg" class="img-fluid rounded" width="70%" zoomable=true %}
+{% include figure.html path="assets/img/07-22-23_blog/b_reactor_signs.jpeg" class="img-fluid rounded" width="70%" padding="20px" zoomable=true %}
 
 the signs were in every room. dozens upon dozens of signs in a style that today only remains as an aesthetic. radioactive, keep out, keep your gear on, do not enter, and most importantly, *do not tell*. as touristy as the tour was, there was no glossing over the fact that this was the heart of a top secret military operation, one of unprecedented scale, in both science and horror, one that precisely engineered the instanteous deaths of hundreds of thousands of people, and one that would change the very perception of war itself, as it launched the world–irreversibly–into an age of looming self-annihilation
 
