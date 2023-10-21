@@ -16,6 +16,12 @@ interested in joining the A-team? reach out to <a href="mailto: aqc@mit.edu">me<
 <ul class="noindent">
     <li> 
     <span class="inline-icon">
+        <i class="far fa-folder"></i>
+    </span> 
+    2024 MIT Invitational
+    </li>
+    <li> 
+    <span class="inline-icon">
         <a href="https://drive.google.com/drive/folders/1kAralsJDG0RGKYHlupFPAOvyLx3i3Z3A?usp=share_link" target="_blank"><i class="far fa-folder"></i></a>
     </span> 
     2023 SHSSO Invitational

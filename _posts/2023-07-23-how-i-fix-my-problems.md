@@ -25,7 +25,7 @@ in reality, however, self perceptions are not blanket truths. i know that. i kno
 
 <br>
 
-### *i'm \*\*\*\*\*\*\*.*
+### *i'm asexual.*
 <br>
 
 (oops, that was random. nothing like coming out by nervously blurting it out of nowhere!)

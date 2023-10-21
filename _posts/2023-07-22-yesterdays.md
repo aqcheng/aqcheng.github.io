@@ -1,17 +1,12 @@
 ---
 layout: post
-title: (mit blogger application) what i'm still thinking about, yesterday
+title: what i'm still thinking about, yesterday
 date: 2023-07-22
 description: physics, life, death, and other things
 tags: reflections 
 categories: long
 ---
 
-(Prompt) <it>What is something that happened yesterday that you are still thinking about?</it>
-
----
-
-<br>
 
 ### 1.
 

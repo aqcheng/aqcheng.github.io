@@ -76,7 +76,7 @@ telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0009-0007-8996-0735 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -111,7 +111,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 # CV
 # -----------------------------------------------------------------------------
-cv_path: /assets/pdf/April_Qiu_Cheng_CV.pdf
+cv_path: /assets/pdf/April_Cheng_Grad_School_CV.pdf
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -260,8 +260,8 @@ display_tags: # this tags will be dispalyed on the front page of your blog
 
 scholar:
 
-  last_name: [Cheng]
-  first_name: [April, A.]
+  last_name: [Cheng, Qiu Cheng]
+  first_name: [April, A., April Qiu]
 
   style: apa
   locale: en

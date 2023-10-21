@@ -1,17 +1,11 @@
 ---
 layout: post
-title: (mit blogger application) what i've learned
+title: what i've learned
 date: 2023-07-28
 description: and what i'm learning
 tags: feelings me-things reflections
 categories: long
 ---
-
-(Prompt) <it> What is something you learned recently that you are very excited about? </it>
-
----
-
-<br>
 
 > I leave Sisyphus at the foot of the mountain. One always finds one's burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man's heart. <b>One must imagine Sisyphus happy.</b> <br> <br> <reg>(<it>The Myth of Sisyphus</it>, Albert Camus)</reg>
 
