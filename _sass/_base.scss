@@ -3,14 +3,20 @@
  ******************************************************************************/
 
 // Typography
-@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@100&family=Lato:wght@300;400&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Chivo:wght@100&family=Lato:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;600&display=swap');
+
+p {
+  line-height: 170%;
+}
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
-  font-family: 'Chivo', sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 
-em, b, bold, big, span.emph {
+b, bold, big, span.emph {
   color: var(--global-emph-color);
 }
 
@@ -412,7 +418,8 @@ footer.sticky-bottom {
   margin-bottom: 3rem;
   h1 {
     color: var(--global-theme-color);
-    font-size: 5rem;
+    font-size: 4rem;
+    padding-bottom: 1rem;
   }
 }
 
@@ -441,8 +448,8 @@ footer.sticky-bottom {
   li {
     border-bottom: none;
     list-style: none;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 1.7rem;
+    padding-bottom: 1.7rem;
     .post-meta {
       color: var(--global-text-color-light);
       font-size: 0.875rem;
@@ -549,6 +556,9 @@ footer.sticky-bottom {
     margin-top: 1em;
     margin-bottom: 1em;
   }
+  a {
+    color: var(--global-text-color);
+  }
   h2 {
     margin-bottom: 1rem;
     span {
@@ -609,7 +619,7 @@ footer.sticky-bottom {
         > em {
           font-style: normal;
           font-weight: bold;
-          color: var(--global-text-color);
+          color: var(--global-theme-color);
         }
         > span.more-authors {
           color: var(--global-text-color-light);
