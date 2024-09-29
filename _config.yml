@@ -81,7 +81,7 @@ medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
-blogger_url: # aqcheng.substack.com
+blogger_url: # 
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
@@ -121,9 +121,10 @@ blog_url: https://aqcheng.github.io/
 blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
 blog_name: welcome to <b>headspace</b></p> # blog_name will be displayed in your blog page
 blog_description: >
- <b>why unravel?</b> it's my favorite word. no, it's not just because i'm kind of edgy and i like <a href="https://www.youtube.com/watch?v=7aMOurgDB-o">tokyo ghoul</a>;
+ <em><b>why unravel?</b> it's my favorite word. no, it's not just because i'm kind of edgy and i like <a href="https://www.youtube.com/watch?v=7aMOurgDB-o">tokyo ghoul</a>;
  it's also because it's multifaceted in a way that i like to think that i am as well. you can unravel many things,
- such as unsolved research problems, a friend's deep-rooted trauma, your sanity, toilet paper...
+ such as unsolved research problems, a friend's deep-rooted trauma, your sanity, toilet paper...</em>
+# <br> <br>i used to blog on here. now, my blog has been moved to <a href="https://aqcheng.substack.com">substack</a>. (integrating the RSS feed here is a WIP...)
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -153,9 +154,9 @@ pagination:
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-# external_sources:
-#   - name: https://substack.com
-#     rss_url: https://aqcheng.substack.com/feed
+external_sources:
+  - name: https://substack.com
+    rss_url: https://aqcheng.substack.com/feed
 
 # -----------------------------------------------------------------------------
 # Collections
