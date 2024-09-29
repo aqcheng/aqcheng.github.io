@@ -154,9 +154,9 @@ pagination:
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: https://substack.com
-    rss_url: https://aqcheng.substack.com/feed
+# external_sources:
+#   - name: https://substack.com
+#     rss_url: https://aqcheng.substack.com/feed
 
 # -----------------------------------------------------------------------------
 # Collections
