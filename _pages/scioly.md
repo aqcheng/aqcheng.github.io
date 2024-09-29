@@ -16,7 +16,19 @@ interested in joining the A-team? reach out to <a href="mailto: aqc@mit.edu">me<
 <ul class="noindent">
     <li> 
     <span class="inline-icon">
-        <i class="far fa-folder"></i>
+        <a href="https://drive.google.com/drive/folders/1uhVUSdhGlTkJUd0hqiZEHUmLK_B1lqeD?usp=drive_link" target="_blank"><i class="far fa-folder"></i></a>
+    </span> 
+    2024 Nationals (my question only)
+    </li>
+    <li> 
+    <span class="inline-icon">
+        <a href="https://drive.google.com/drive/folders/1AdFwR9hpzfyOvJrW513sFz2ubD8guNuq?usp=drive_link" target="_blank"><i class="far fa-folder"></i></a>
+    </span> 
+    2024 SoCal States (Section C)
+    </li>
+    <li> 
+    <span class="inline-icon">
+        <a href="https://drive.google.com/drive/folders/1nx85R10YIXn-kvflMm6_TbBv73w99StQ?usp=drive_link" target="_blank"><i class="far fa-folder"></i></a>
     </span> 
     2024 MIT Invitational
     </li>

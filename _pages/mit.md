@@ -10,6 +10,30 @@ nav_order: 4
 <h2>coursework</h2>
 <div class="table-responsive">
     <table class="table table-sm table-borderless">
+        <!-- Spring24 -->
+        <tr>
+          <th width="100px"><b>Fall 2023   </b></th>
+          <th>8.13</th>
+          <th>Experimental Physics I</th>
+          <th class="course-desc">:|</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>WGS.101</th>
+          <th>Intro to Women & Gender Studies</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>WGS.142</th>
+          <th>Contemporary Women of Color</th>
+          <th class="course-desc">easily the best class i've taken, on asian women writers</th>
+        </tr>
+        <tr>
+          <th></th>
+          <th>PHY212</th>
+          <th>graduate cosmology (harvard)</th>
+          <th class="course-desc">audited</th>
+        </tr>
         <!-- Fall23 -->
         <tr>
           <th width="100px"><b>Fall 2023   </b></th>
@@ -191,20 +215,18 @@ i've been mentoring for mit's physics department since fall 2022; i've mentored 
 
 <h2 class="padded">research</h2>
 i've completed several different research projects at mit: one on investigating exoplanets around variable stars, one on tracing dark matter particles in the TNG-100 cosmological
-simulation, one on modeling the conversion of axion dark matter into photons in neutron star magnetospheres, and one on biases in population inference of gravitational wave data. in the last project, <b>i worked with professor Salvatore Vitale at <a href="https://ligolab.mit.edu/">MIT LIGO</a></b>. using gravitational wave data from the latest dataset <a href="https://zenodo.org/record/5546665">(GWTC-3)</a>, i used hierarchical bayesian inference to constrain the branching fractions of different binary black hole formation channels, made projections for what the same analysis could look like in a few years at the end of the current observing run, and investigated at the potential pitfalls of this method. see my publication <a href="https://iopscience.iop.org/article/10.3847/1538-4357/aced98">here</a>! last summer, i participated in caltech's ligo surf, where i did similarly exciting <b>gravitational-wave astrophysics research on binary black hole populations</b>
+simulation, one on modeling the conversion of axion dark matter into photons in neutron star magnetospheres, and one on biases in population inference of gravitational wave data. in the last project, <b>i worked with professor Salvatore Vitale at <a href="https://ligolab.mit.edu/">MIT LIGO</a></b>. using gravitational wave data from the latest dataset <a href="https://zenodo.org/record/5546665">(GWTC-3)</a>, i used hierarchical bayesian inference to constrain the branching fractions of different binary black hole formation channels, made projections for what the same analysis could look like in a few years at the end of the current observing run, and investigated at the potential pitfalls of this method. see my publication <a href="https://iopscience.iop.org/article/10.3847/1538-4357/aced98">here</a>! last summer, i participated in caltech's ligo surf, where i did similarly exciting <b>gravitational-wave astrophysics research on binary black hole populations</b>. during my final year at mit, i pivoted to work on something a little different: <b>cosmology with fast radio bursts (FRBs)</b>. under the supervision of professor Kiyo Masui at the <a href="https://space.mit.edu/">MIT Kavli Institute for Astrophysics and Space Research</a>, i simulated frb DM-galaxy cross correlations in the <a href="https://www.tng-project.org/">Illustris-TNG</a> cosmological simulations to better understand systematics, such as selection effects and 
 
-this semester, i've pivoted to work on something a little different: <b>cosmology with fast radio bursts (FRBs)</b>! i've always been interested in cosmology, and my research in binary black hole populations with gravitational waves helped me realize that i really enjoy population analyses and using cool astrophysical phenomena to answer bigger questions. i work with professor Kiyo Masui at the <a href="https://space.mit.edu/">MIT Kavli Institute for Astrophysics and Space Research</a>; i'm simulating frb DM-galaxy cross correlations in the <a href="https://www.tng-project.org/">Illustris-TNG</a> cosmological simulations to better understand the error bars on the power spectrm and selection effects
-
-i also participate in mit's <a href="https://phys-drp.mit.edu/">physics directed reading program</a>, where each iap (january), undergrads are paired with grad students to read and learn about a topic of their choice. in 2022, i learned about the general relativistic treatment for cosmology and using perturbation theory to understand features of the cosmic microwave background. in 2023, i learned more in-depth about gravitational waves, binary black-hole inspirals, and the mathematical formalism behind general relativity
+i also participated in mit's <a href="https://phys-drp.mit.edu/">physics directed reading program</a>, where each iap (january), undergrads are paired with grad students to read and learn about a topic of their choice. in 2022, i learned about the general relativistic treatment for cosmology and using perturbation theory to understand features of the cosmic microwave background. in 2023, i learned more in-depth about gravitational waves, binary black-hole inspirals, and the mathematical formalism behind general relativity
 
 <h2 class="padded">clubs</h2>
 <ul class="hearts">
-    <li>i dance for adt (asian dance team) and lion dance!</li>
+    <li>i danced for adt (asian dance team) and lion dance!</li>
     <li>i wrote for mit's <a href="http://infinitemagazine.mit.edu/">infinite magazine</a>, and i modelled for them at the first ever mit gala!</li>
     <li>i performed <a href="https://www.youtube.com/watch?v=ACon4txJiDA">duet (from omori)</a> at the fall 2022 vgo (video game orchestra) concert</li>
     <li>i'm the former  webmaster and VP of advocacy for <a href="http://uwip-r1.mit.edu/">undergraduate women in physics</a> (UWiP)</li>
-    <li>i serve on the <a href="https://physvals.mit.edu/">mit physics values committee</a>, which makes recommendations to the department on how to make mit physics better</li>
-    <li>i'm the physics common room steward, which means i buy snacks for it and maintain it as a nice space for students</li>
-    <li>i teach for <a href="https://esp.mit.edu/learn/Splash/index.html">splash</a>, a student-run teaching program for high school students! i taught an astronomy class (2021) and a relativity class (2022).</li>
-    <li>i'm the treasurer, Valorant coordinator, and Valorant team manager for mit's riot games club! i organize customs and watch parties and things like that</li>
+    <li>i served on the <a href="https://physvals.mit.edu/">mit physics values committee</a>, which makes recommendations to the department on how to make mit physics better</li>
+    <li>i was the physics common room steward, which means i buy snacks for it and maintain it as a nice space for students</li>
+    <li>i taught for <a href="https://esp.mit.edu/learn/Splash/index.html">splash</a>, a student-run teaching program for high school students! i taught an astronomy class (2021) and a relativity class (2022).</li>
+    <li>i was the treasurer, Valorant coordinator, and Valorant team manager for mit's riot games club! i organized customs and watch parties and things like that</li>
 </ul>

@@ -7,7 +7,7 @@ about_header: april qiu cheng
 first_name: April
 middle_name: Qiu
 last_name: Cheng
-email: aqc@mit.edu
+email: aqc@aei.mpg.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   the personal website of april qiu cheng
 footer_text: >
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # aqcheng
+github_username: aqcheng
 gitlab_username: # your GitLab user name
 twitter_username: aqc___ # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -111,13 +111,14 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 # CV
 # -----------------------------------------------------------------------------
-cv_path: /assets/pdf/April_Cheng_Grad_School_CV.pdf
+cv_path: /assets/pdf/April_Cheng_CV.pdf
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
+blog_url: https://aqcheng.github.io/
 
-blog_nav_title: unravel # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
 blog_name: welcome to <b>headspace</b></p> # blog_name will be displayed in your blog page
 blog_description: >
  <b>why unravel?</b> it's my favorite word. no, it's not just because i'm kind of edgy and i like <a href="https://www.youtube.com/watch?v=7aMOurgDB-o">tokyo ghoul</a>;
