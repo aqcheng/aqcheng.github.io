@@ -4,7 +4,7 @@
             <td class="bullet">></td>
             <td>
             <div class="title">
-                <a href="{{ publication.doi or publication.arxiv }}" target="_blank">{{ publication.title }}</a>
+                <a href="{% if publication.doi %}{{ publication.doi }}{% else %}{{ publication.arxiv }}{% endif %}" target="_blank">{{ publication.title }}</a>
                 <div class="inline-icon"><a href="{{ publication.arxiv }}" target="_blank" title="arXiv"><i class="ai ai-arxiv"></i></a></div>
                 <div class="inline-icon"><a href="{{ publication.ads }}" target="_blank" title="ADS"><i class="ai ai-ads"></i></a></div>
             </div>
