@@ -1,0 +1,8 @@
+{% assign social_includes = site.social_include | split: ","%}
+<div class="social">
+    {%- for item in social_includes -%}
+        <a href="{{ social[item].url }}" target="_blank" title="{{ item }}">
+            <i class="{{ social[item].icon }}"></i>
+        </a>
+    {%- endfor -%}
+</div>

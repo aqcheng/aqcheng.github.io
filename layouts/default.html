@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include 'head.html' %}
+</head>
+<body>
+    <header class="page-header">
+        {% if page.url == '/' %}
+        <div></div>
+        {% else %}
+        <a href="/" style="font-weight: 700">aqc</a>
+        {% endif %}
+        <nav>
+            <a href="https://aqcheng.substack.com" target="_blank">substack</a>
+            <a href="/assets/pdf/April_Cheng_CV.pdf" target="_blank">cv</a>
+            {% assign sections = "projects" | split: " " %}
+            {% for section in sections %}
+                <a href="/#{{ section }}">{{ section }}</a>
+            {% endfor %}
+            <button class="theme-toggle" id="theme-toggle" title="Toggle dark mode">
+                <i class="fa-solid fa-moon" style="width: 1em; text-align: center;"></i>
+            </button>
+        </nav>
+        <progress value="0" max="100"></progress>
+    </header>
+    <main>
+    {% if clean_url == '/' %}
+    <h1>{{ site.author | upcase }}<span class="emph">.</span></h1>
+    <img src="{{site.headshot}}" alt="Headshot" class="headshot">
+    {% endif %}
+    {{content}}
+    </main>
+    <footer class="page-footer">
+        <small>Built by April with <a href="https://www.clairebookworm.com/" target="_blank">insp</a><a href="https://amandafarah.me/" target="_blank">ira</a><a href="https://www.vvhuang.com/" target="_blank">ti</a><a href="https://liudaniel.com/" target="_blank">on</a>
+            and <a href="https://www.11ty.dev/" target="_blank">11ty</a> 
+            <a href="https://github.com/binyamin/eleventy-garden" target="_blank">garden</a>.
+            Last updated {{ site.last_updated }}.
+        </small>
+    </footer>
+    <script src="/assets/js/progress.js"></script>
+    <script src="/assets/js/theme.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "name": "aqc",
+  "version": "1.0.0",
+  "description": "My personal website, built using [11ty](https://github.com/11ty/eleventy) with the help of [eleventy garden](https://github.com/binyamin/eleventy-garden).",
+  "scripts": {
+    "start": "eleventy --serve --quiet",
+    "compile": "eleventy",
+    "build": "eleventy"
+  },
+  "main": ".eleventy.js",
+  "keywords": [],
+  "author": "April Qiu Cheng",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1",
+    "markdown-it": "^12.3.2",
+    "markdown-it-attrs": "^4.1.4",
+    "markdown-it-footnote": "^3.0.3",
+    "title-case": "^3.0.3"
+  }
+}

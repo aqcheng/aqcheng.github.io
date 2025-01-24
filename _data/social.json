@@ -1,0 +1,30 @@
+{
+    "Email": {
+        "url": "mailto:aqc@aei.mpg.de",
+        "icon": "fa-regular fa-paper-plane"
+    },
+    "GitHub": {
+        "url": "https://github.com/aqcheng",
+        "icon": "fa-brands fa-github"
+    },
+    "ORCID": {
+        "url": "https://orcid.org/0009-0007-8996-0735",
+        "icon": "ai ai-orcid"
+    },
+    "LinkedIn": {
+        "url": "https://www.linkedin.com/in/april-qiu-cheng/",
+        "icon": "fa-brands fa-linkedin"
+    },
+    "Twitter": {
+        "url": "https://x.com/aqc___",
+        "icon": "fa-brands fa-twitter"
+    },
+    "GoogleScholar": {
+        "url": "https://scholar.google.com/citations?user=yDBRRLcAAAAJ&hl=en",
+        "icon": "ai ai-google-scholar"
+    },
+    "Substack": {
+        "url": "https://aqcheng.substack.com",
+        "icon": "bi bi-substack"
+    }
+}
