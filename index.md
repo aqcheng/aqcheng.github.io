@@ -4,7 +4,7 @@ layout: default
 <div class="about">
 I'm a Fulbright scholar currently at the Max Planck Institute for Gravitational Physics in Golm. I'm interested in using gravitational waves and other transient phenomena to learn about stellar populations, large-scale structure, and the history of the universe. I'm a member of the LIGO-Virgo-KAGRA Scientific Collaboration. 
 
-I recently graduated from MIT, where I studied physics and mathematics. I'm an [Astronaut Scholar](https://astronautscholarship.org/scholars.html) andthe winner of the [2024 MIT Barrett Prize](https://physics.mit.edu/academic-programs/student-awards/#:~:text=The%20Barrett%20Prize). In 2024, I attended the [73rd Lindau Nobel Laureate Meeting](https://mediatheque.lindau-nobel.org/meetings/2024). I'm excited to begin my PhD at Princeton starting fall 2025.
+I recently graduated from MIT, where I studied physics and mathematics. I'm a 2025 [Hertz fellowship](https://www.hertzfoundation.org/) finalist, 2023[Astronaut Scholar](https://astronautscholarship.org/scholars.html), and the winner of the [MIT Barrett Prize](https://physics.mit.edu/academic-programs/student-awards/#:~:text=The%20Barrett%20Prize). In 2024, I attended the [73rd Lindau Nobel Laureate Meeting](https://mediatheque.lindau-nobel.org/meetings/2024). I'm excited to begin my PhD at Princeton starting fall 2025.
 
 In my free time, I like to [write](https://aqcheng.substack.com), [read](https://www.goodreads.com/user/show/174364104-april-cheng), try new cafés, and play video games.
 </div>
