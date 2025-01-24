@@ -16,7 +16,7 @@ In my free time, I like to [write](https://aqcheng.substack.com), [read](https:/
 {% include 'publications.html' markdown=0 | safe %}
 </div>
 
-## selected projects <div id="projects">
+## selected research <div id="research">
 * *In progress* - dark siren cosmology with cross-correlations! 
 * *In preparation* - I built the first [library](https://github.com/aqcheng/illustris_frb) to simulate full-sky fast radio bursts (FRBs) by ray tracing through the [Illustris-TNG cosmological simulation](https://tng-project.org/). I ran a variety of experiments to study systematics in cross-correlations of FRB dispersion measures and foreground galaxies.
 * [(LIGO T2300368)](https://dcc.ligo.org/LIGO-T2300368/public) - As a 2023 [LIGO SURF](https://labcit.ligo.caltech.edu/LIGO_web/students/SURF/), I studied astrophysically-motivated correlations in population properties of merging black holes. I forecasted 3rd-generation detection capabilities and also studied the biases of searching for a correlation with an imposed phenomelogical model.
