@@ -1,21 +1,21 @@
 :root {
-    /* --side-bg-color:        black; */
+    /* Dark mode colors as default */
+    --bg-color:             rgb(0, 0, 0);
+    --bg-color-opacity:     rgba(0, 0, 0, 0.9);
+    --text-color:           #FFFFFF;
+    --theme-color:          #CDB4DB;
+    --nav-hover-color:      #89ADE0;
+    --contrast-theme-color: #dfc4ef;
+}
+
+/* Light mode colors */
+[data-theme="light"] {
     --bg-color:             rgb(254, 255, 248);
     --bg-color-opacity:     rgba(254, 255, 248, 0.95);
     --text-color:           #212122;
     --theme-color:          #AD87B6;
     --nav-hover-color:      #D9B5E7;
     --contrast-theme-color: #93719a;
-}
-
-/* Dark mode colors */
-[data-theme="dark"] {
-    --bg-color: #1a1a1a;
-    --bg-color-opacity: rgba(26, 26, 26, 0.95);
-    --text-color: #e0e0e0;
-    --theme-color: #D9B5E7;
-    --nav-hover-color: #AD87B6;
-    --contrast-theme-color: #b38fbc;
 }
 
 /* for smooth transitioning of dark and light modes */
@@ -100,7 +100,7 @@ main {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    min-height: 35px;
+    min-height: 45px;
     align-items: center;
 }
 
@@ -135,8 +135,6 @@ a[href]:hover {
     padding-right: 15ch;
     margin-top: 2rem;
     margin-bottom: 8px;
-    animation: fadeInTop 0.8s ease 0.4s forwards;
-    opacity: 0;  /* Start invisible */
 }
 
 .footnotes {
@@ -198,9 +196,9 @@ h1 {
 }
 
 h2 {
-    font-size: 2.5em;
-    font-weight: 600;
-    margin: 1.8rem 0 1.2rem;
+    font-size: 2.2em;
+    font-weight: 500;
+    margin: 2rem 0 1.2rem;
 }
 
 h3 {font-size: 1.953em;}
@@ -307,7 +305,7 @@ progress {
     /* Positioning */
     position: fixed;
     left: 0;
-    top: 35px;
+    top: 45px;
     
     /* Make it span full viewport width */
     width: 100vw;  /* Changed from 100% to 100vw */
@@ -357,4 +355,10 @@ progress::-moz-progress-bar {
 
 .theme-toggle:hover {
     color: var(--nav-hover-color);
+}
+
+/* have aqc on top left fade in and out when scrolling */
+#home-link.fade-on-scroll {
+    opacity: 0;
+    transition: opacity 0.36s ease-out;
 }

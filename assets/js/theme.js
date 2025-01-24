@@ -2,26 +2,33 @@ document.addEventListener('DOMContentLoaded', () => {
     const themeToggle = document.getElementById('theme-toggle');
     const themeIcon = themeToggle.querySelector('i');
     
-    // Check for saved theme preference, otherwise use system preference
+    // Check for saved theme preference
     const savedTheme = localStorage.getItem('theme');
-    const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
     
-    // Set initial theme
-    if (savedTheme) {
-        document.documentElement.setAttribute('data-theme', savedTheme);
-        themeIcon.className = savedTheme === 'dark' ? 'fa-solid fa-moon' : 'fa-regular fa-sun';
-    } else if (systemPrefersDark) {
-        document.documentElement.setAttribute('data-theme', 'dark');
+    // Set initial theme - default is dark 
+    if (savedTheme === 'light') {
+        document.documentElement.setAttribute('data-theme', 'light');
+        themeIcon.className = 'fa-regular fa-sun';
+    } else {
+        // Remove any theme attribute to default to dark
+        document.documentElement.removeAttribute('data-theme');
         themeIcon.className = 'fa-solid fa-moon';
     }
     
     // Toggle theme
     themeToggle.addEventListener('click', () => {
-        const currentTheme = document.documentElement.getAttribute('data-theme');
-        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        const isLight = document.documentElement.hasAttribute('data-theme');
         
-        document.documentElement.setAttribute('data-theme', newTheme);
-        localStorage.setItem('theme', newTheme);
-        themeIcon.className = newTheme === 'dark' ? 'fa-solid fa-moon' : 'fa-regular fa-sun';
+        if (isLight) {
+            // Switch to dark mode
+            document.documentElement.removeAttribute('data-theme');
+            localStorage.removeItem('theme');
+            themeIcon.className = 'fa-solid fa-moon';
+        } else {
+            // Switch to light mode
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+            themeIcon.className = 'fa-regular fa-sun';
+        }
     });
 }); 
