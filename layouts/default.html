@@ -22,12 +22,28 @@
                 <a href="/#{{ section }}">{{ section }}</a>
             {% endfor %}
             <a href="/assets/pdf/April_Cheng_CV.pdf" target="_blank">cv</a>
+            <!-- dark mode toggle -->
             <button class="theme-toggle" id="theme-toggle" title="Toggle dark mode">
                 <i class="fa-regular fa-sun" style="width: 1em; text-align: center;"></i>
+            </button>
+            <!-- Hamburger Icon for mobile -->
+            <button class="hamburger" onclick="toggleMenu()">
+                &#9776; <!-- This is a simple hamburger icon -->
             </button>
         </nav>
         <progress value="0" max="100"></progress>
     </header>
+
+    <!-- Side Menu for mobile-->
+    <nav class="side-menu" id="sideMenu">
+        <button class="hamburger" onclick="toggleMenu()">
+            &#9776; <!-- This is a simple hamburger icon -->
+        </button>
+        <a href="https://aqcheng.substack.com" target="_blank">substack</a>
+        <a href="/scioly">scioly</a>
+        <a href="/assets/pdf/April_Cheng_CV.pdf" target="_blank">cv</a>
+    </nav>
+
     <main>
     {% if clean_url == '/' %}
     <h1>{{ site.author | upcase }}<span class="emph">.</span></h1>
@@ -44,5 +60,6 @@
     </footer>
     <script src="/assets/js/progress.js"></script>
     <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/hamburger.js"></script>
 </body>
 </html>

@@ -61,6 +61,7 @@ main {
     p {
         max-width: 70ch;
     }
+    width: 100%;
 }
 
 .about {
@@ -78,16 +79,12 @@ main {
     float: right; /* Makes the image float to the right */
     width: 270px; /* Set the width of the image */
     height: 270px; /* Set the height of the image */
+    display: block;
+    max-width: 100%;
     border-radius: 90%; /* Makes the image circular */
     margin-left: 15px; /* Adds space between the image and text */
     margin-bottom: 10px; /* Adds space below the image */
     object-fit: cover; /* Ensures the image covers the area without distortion */
-}
-
-@media only screen and (max-width: 468px) {
-    .page-header {
-        flex-direction: column;
-    }
 }
 
 .page-header {
@@ -102,6 +99,7 @@ main {
     justify-content: space-between;
     min-height: 45px;
     align-items: center;
+    margin-bottom: 1rem;
 }
 
 a[href] {
@@ -113,19 +111,19 @@ a[href]:hover {
     text-decoration: underline;
 }
 
-.page-header a {
+.page-header a, .side-menu a {
     transition: color 0.3s ease;
     margin: 0 1ch;
     font-size: 1.25em;
     color: var(--text-color);
 }
 
-.page-header a:hover, .page-header a:focus {
+.page-header a:hover, .page-header a:focus, .side-menu a:hover, .side-menu a:focus {
     color: var(--nav-hover-color);
     text-decoration: none;
 }
 
-.page-header a.active { 
+.page-header a.active, .side-menu a.active { 
     font-weight: bold; 
     color: var(--theme-color);
 }
@@ -338,7 +336,7 @@ progress::-moz-progress-bar {
 }
 
 /* Add styles for the theme toggle button */
-.theme-toggle {
+nav button {
     background: none;
     border: none;
     padding: 0;
@@ -353,7 +351,7 @@ progress::-moz-progress-bar {
     align-items: center;
 }
 
-.theme-toggle:hover {
+nav button:hover {
     color: var(--nav-hover-color);
 }
 
@@ -361,4 +359,79 @@ progress::-moz-progress-bar {
 #home-link.fade-on-scroll {
     opacity: 0;
     transition: opacity 0.36s ease-out;
+}
+
+/* Hamburger Icon */
+.hamburger {
+    display: none; /* Hidden by default */
+    cursor: pointer;
+    z-index: 1001; /* Ensure it is above other elements */
+    font-size: 25px;
+}
+
+/* Side Menu */
+.side-menu {
+    position: fixed;
+    top: 0;
+    right: -20ch; /* Hide off-screen to the right */
+    width: 20ch;
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 0.5rem;
+    align-items: flex-end;
+    height: 100%;
+    background-color: var(--bg-color-opacity); /* Background color */
+    transition: right 0.3s ease; /* Smooth transition */
+    z-index: 1001; /* Ensure it appears above other content */
+    button {
+        margin-top: 8px;
+        width: auto;
+    }
+    button, a {
+        margin-right: 32px;
+    }
+}
+
+.side-menu.active {
+    right: 0; /* Slide in from the right */
+}
+
+/* Media query for mobile devices */
+@media only screen and (max-width: 600px) {
+    body {
+        width: 85%;
+    }
+    main {
+        margin: 0 auto;
+    }
+    .hamburger {
+        display: block; /* Show hamburger icon on mobile */
+    }
+    .page-header a {
+        display: none; /* Hide the nav bar on mobile */
+    }
+    nav {
+        width: 100%;
+        justify-content: flex-end;
+        display: inline-flex;
+        flex-direction: row;
+        gap: 1.5ch;
+        align-items: baseline;
+    }
+    h1 {
+        margin-bottom: 0;
+    }
+    .headshot {
+        margin: 2rem auto;
+        width: 69%;
+        height: auto;
+        float: none;
+        clear: both;
+    }
+    .page-footer {
+        text-align: center;
+        padding: 0;
+    }
 }
