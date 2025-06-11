@@ -10,7 +10,11 @@
             </div>
             <div class="authors">{{ publication.authors }}</div>
             <div class="doi">
-                <a href="{{ publication.doi }}" target="_blank">DOI:{{ publication.doi | split: "doi.org/" | last }}</a>
+                {%- if publication.doi -%}
+                    <a href="{{ publication.doi }}" target="_blank">DOI:{{ publication.doi | split: "doi.org/" | last }}</a>
+                {%- else -%}
+                    <a href="{{ publication.arxiv }}" target="_blank">arXiv:{{ publication.arxiv | split: "/" | last }}</a>
+                {%- endif -%}
             </div>
             </td>
         </tr>

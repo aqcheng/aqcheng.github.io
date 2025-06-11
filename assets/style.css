@@ -264,8 +264,10 @@ a:hover i {
 .publications {
     line-height: 1.2;
     font-weight: 300;
-    margin-bottom: 1rem;
+    margin: 0 0;
     max-width: 65ch;
+    border-spacing: 0 0.75rem;
+    border-collapse: separate;
     .doi {
         font-size: 80%;
     }
