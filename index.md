@@ -29,7 +29,7 @@ In my free time, I like to [write](https://aqcheng.substack.com), [read](https:/
 
 The road ahead is long, but so is my journey thus far. In high school, I participated in the [International Olympiad for Astronomy and Astrophysics](https://usaaao.org/about/history/) and Science Olympiad. Without these outreach programs, I wouldn't be where I am. 
 
-Since 2020, I have been heavily involved in writing astronomy tests and developing resources for the Astronomy event of Science Olympiad. A (nearly) comprehensive list of these can be found [here](/scioly/). As of 2025, I am also involved in coaching the [USA IOAA team](https://usaaao.org/). 
+Since 2020, I have been heavily involved in writing astronomy tests and developing resources for the Astronomy event of Science Olympiad. A (nearly) comprehensive list of these can be found [here](/scioly/). As of 2025, I am also involved in coaching the [USA IOAA team](https://usaaao.org/). In Spring 2026, I plan to tutor at the New Jersey Northern State Prison as part of the [Prison Teaching Initiative](https://mcgraw.princeton.edu/community-college-engagement/prison-teaching-initiative).
 
 Other outreach involvements are in the works...
 
