@@ -2,9 +2,9 @@
 layout: default
 ---
 <div class="about">
-Hello! I'm April, and I'm a first-year astrophysics PhD student at Princeton University. Lately, I've been using gravitational waves and other transient phenomena to learn about stellar populations, large-scale structure, and the history of the universe. I'm a member of the LIGO-Virgo-KAGRA Scientific Collaboration. I'm interested in interesting and beautiful data analysis problems.
+Hello! I'm April, and I'm a first-year astrophysics PhD student at Princeton University. Lately, I've been using gravitational waves and other transient phenomena to learn about stellar populations, large-scale structure, and the history of the universe. I'm a member of the LIGO-Virgo-KAGRA Scientific Collaboration. In general, I'm interested in interesting and beautiful data analysis problems.
 
-I completed my undergraduate studies in physics and mathematics at MIT in 2024, after which I completed a Fulbright research fellowship at the Albert Einstein Institute in Potsdam. I'm a 2025 [Hertz fellow](https://www.hertzfoundation.org/person/april-qiu-cheng/), 2023 [Astronaut Scholar](https://astronautscholarship.org/scholars.html), and the winner of the 2024 [MIT Barrett Prize](https://physics.mit.edu/academic-programs/student-awards/#:~:text=The%20Barrett%20Prize). In 2024, I attended the [73rd Lindau Nobel Laureate Meeting](https://mediatheque.lindau-nobel.org/meetings/2024). I'm excited to begin my PhD at Princeton starting fall 2025.
+I completed my undergraduate studies in physics and mathematics at MIT in 2024, after which I completed a Fulbright research fellowship at the Albert Einstein Institute in Potsdam. I'm a 2025 [Hertz fellow](https://www.hertzfoundation.org/person/april-qiu-cheng/), 2023 [Astronaut Scholar](https://astronautscholarship.org/scholars.html), and the winner of the 2024 [MIT Barrett Prize](https://physics.mit.edu/academic-programs/student-awards/#:~:text=The%20Barrett%20Prize). In 2024, I attended the [73rd Lindau Nobel Laureate Meeting](https://mediatheque.lindau-nobel.org/meetings/2024). I began my PhD at Princeton in fall 2025.
 
 In my free time, I like to [write](https://aqcheng.substack.com), [read](https://www.goodreads.com/user/show/174364104-april-cheng), try new cafés, and play video games.
 </div>
