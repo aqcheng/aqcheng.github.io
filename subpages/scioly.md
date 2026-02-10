@@ -14,7 +14,19 @@ I'm a member of the **A-team**, the team that writes the national Science Olympi
 <ul class="noindent">
     <li> 
         <span class="inline-icon">
-            <i class="material-symbols-outlined">folder</i>
+            <a href="https://drive.google.com/drive/folders/1VZk4jGm69PVxmELu-YRIXiSIYraQysiX?usp=drive_link" target="_blank"><i class="material-symbols-outlined">folder</i></a>
+            2026 PUSO Invitational
+        </span> 
+    </li>
+    <li> 
+        <span class="inline-icon">
+            <a href="https://drive.google.com/drive/folders/1rIql_Dua5szztbHxTjh96FMTKqqM4QIL?usp=drive_link" target="_blank"><i class="material-symbols-outlined">folder</i></a>
+            2026 MIT Invitational
+        </span> 
+    </li>
+    <li> 
+        <span class="inline-icon">
+            <a href="https://drive.google.com/drive/folders/1SLyQe0hJgI33BiQ-0K3HEWqgg3M4CAXq?usp=drive_link" target="_blank"><i class="material-symbols-outlined">folder</i></a>
             2025 MIT Invitational
         </span> 
     </li>
